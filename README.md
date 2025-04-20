@@ -1,57 +1,56 @@
-# 🏦 Customer Segmentation Dashboard (Tableau) – UK-based Imaginary Bank
+# 🏦 Customer Segmentation Dashboard | Tableau Project
 
-This project demonstrates customer segmentation using **Tableau**, applied to a fictional UK-based bank. The goal is to segment customers based on behavioral and demographic attributes, enabling targeted marketing strategies and improving customer retention.
+This Tableau dashboard showcases a **customer segmentation analysis** for a fictional UK-based bank. The goal is to group customers based on demographic and behavioral attributes to support data-driven marketing, product development, and retention strategies.
 
 ---
 
-## 🎯 Objectives
+## 🎯 Project Goals
 
-- **Segment Customers Based on Behavior and Demographics**  
-  Utilize clustering techniques to group customers based on key features such as:
+- **Customer Segmentation Using Clustering**  
+  Apply clustering techniques (e.g., K-Means) to categorize customers based on:
   - Age  
   - Income  
   - Gender  
-  - Balance Groups  
+  - Balance Group  
   - Job Classification  
 
-- **Understand Value Contribution of Each Segment**  
-  Identify high-value vs low-value customers using:
-  - Average Balance  
+- **Understand Segment Value**  
+  Determine high-value vs. low-value segments by analyzing:
+  - Average Account Balance  
   - Product Holdings  
-  - Profitability  
+  - Profitability Metrics  
 
-- **Improve Targeted Marketing**  
-  Empower business teams to design tailored campaigns for segments like:
+- **Enable Targeted Marketing**  
+  Help marketing teams tailor campaigns for different personas, such as:
   - Young Professionals  
   - Retirees  
   - High Net Worth Individuals  
 
-- **Enhance Customer Retention**  
-  Analyze customer behavior to identify underutilized banking segments and inform retention strategies.
+- **Boost Customer Retention**  
+  Identify segments that underutilize bank services and develop retention strategies.
 
 ---
 
-## 📊 Key Dashboard Components / KPIs
+## 📊 Dashboard Components
 
-| Component                  | Description                                                                 |
-|---------------------------|-----------------------------------------------------------------------------|
-| **Customer Segmentation View** | Clusters customers into segments such as **White Collar**, **Blue Collar**, and **Others** |
-| **Demographic Breakdown** | Visual charts displaying Age, Gender, Balance, and Geography by customer segment |
-
----
-
-## 🛠 Tools Used
-
-- **Tableau**: For interactive data visualization  
-- **Excel / CSV**: For mock data preparation  
-- **Clustering Algorithms** (e.g., K-Means): For customer segmentation logic  
+| Component                   | Description                                                                 |
+|----------------------------|-----------------------------------------------------------------------------|
+| **Customer Segmentation View** | Interactive clustering of customers into segments (e.g., White Collar, Blue Collar, Others) |
+| **Demographic Breakdown**      | Visual breakdown of age, gender, balance levels, and geography by segment |
 
 ---
 
+## 🛠 Tools & Technologies
 
-## 📷 Dashboard Preview
+- **Tableau**: Data visualization and dashboard creation  
+- **Excel / CSV**: Mock data preparation  
+- **Clustering Algorithms**: K-Means for segmentation logic  
 
-👉 **[View the Tableau Dashboard](https://public.tableau.com/app/profile/abhishek.yaduvanshi6127/viz/CustomerSegmenatationDashboard/Story1)**
+---
+
+## 📷 Dashboard Link
+
+👉 **[Click here to view the interactive Tableau Dashboard](https://public.tableau.com/app/profile/abhishek.yaduvanshi6127/viz/CustomerSegmenatationDashboard/Story1)**
 
 ![Customer Segmentation Dashboard Screenshot](https://public.tableau.com/static/images/Cu/CustomerSegmenatationDashboard/Story1/1.png)
 
